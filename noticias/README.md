@@ -2,55 +2,17 @@
 
 ---
 
-## 2024
+## 2025
 
-### Nuevo Convenio con Parques Nacionales
+### El atropellamiento es la segunda causa de pérdida de fauna silvestre en el planeta
 
-Fecha: 2024
+Fecha: 19/04/2025
 
-![Imagen](../imagenes/convenio_2024.jpg)
-
-Link:
-https://recosfa.org/convenio-2024
-
----
-
-## 2023
-
-### Rescate de fauna silvestre en Antioquia
-
-Fecha: 2023
-
-![Imagen](../imagenes/rescate.jpg)
+![Imagen](25_n_144.png)
 
 Link:
-https://recosfa.org/rescate-2023
+https://caracol.com.co/2025/04/19/el-atropellamiento-es-la-segunda-causa-de-perdida-de-fauna-silvestre-en-el-planeta/?fbclid=IwY2xjawQIPMVleHRuA2FlbQIxMABicmlkETJwNE1qd0Z3ZkxkbVJURlZIc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgR_tRYpZDJ10J5ww8wpo0TbUfwaa5KvvlCIaEzJO-qs5y8gYefDSGA_s5dG_aem_W_kuMBvTlFT02_CIuojhog
 
----
-
-## 2023
-
-### Rescate de fauna silvestre en Antioquia
-
-Fecha: 2023
-
-![Imagen](../imagenes/rescate.jpg)
-
-Link:
-https://recosfa.org/rescate-2023
-
----
-
-## 2022
-
-### Rescate de fauna silvestre en Antioquia
-
-Fecha: 2023
-
-![Imagen](../imagenes/rescate.jpg)
-
-Link:
-https://recosfa.org/rescate-2023
 
 ---
 

@@ -85,9 +85,7 @@ https://recosfa.org/rescate-2023
 
 ### El @ITM_Medellin lanzó el Programa de Ecología de las Carreteras e Infraestructura Verde - @PECIVITM
 Año: 2019
-
-![Imagen](../noticias/19_n_82)
-
+![Imagen](20_n_118.jpg)
 Link:
 https://twitter.com/pecivitm
 

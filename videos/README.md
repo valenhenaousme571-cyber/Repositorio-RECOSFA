@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=bu4_v7liHnc&t=15s
 
 Fecha: 12/09/2019
 
-![Imagen](19_v_72.png)
+![Imagen](19_v_75.png)
 
 Link:
 https://twitter.com/recosfa/status/1172149160683941888?s=20

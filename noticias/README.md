@@ -56,14 +56,69 @@ https://recosfa.org/rescate-2023
 
 ## 2021
 
-### Rescate de fauna silvestre en Antioquia
+### Cartilla para prevenir atropellamientos de fauna
 
-Fecha: 2023
+Fecha: 20/10/2021
 
-![Imagen](../imagenes/rescate.jpg)
+![Imagen](21_n_125.png)
 
 Link:
-https://recosfa.org/rescate-2023
+https://h13n.com/cartilla-para-prevenir-atropellamientos-de-fauna/?fbclid=IwY2xjawP8ei1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeeSlHpBYmfICW0IlOLjZhZ5SdDB4e1BT3SWn8-CrgWNmXMIxeqmOOxtEVYrk_aem_LmOdcuQLoaT_mi9LhME_yw
+
+
+
+### SE DEBE CREAR UNA LEGISLACIÓN PARA PROTEGER LA FAUNA - NOS COGIÓ LA NOCHE
+Fecha: 28/09/2021
+
+![Imagen](21_n_5.png)
+
+Link:
+https://www.youtube.com/watch?v=kbG4TSuUXy4
+
+
+
+### Se calculan millones de animales atropellados en vías del país
+
+Fecha: 20/09/2021
+
+![Imagen](21_n_124.png)
+
+Link:
+https://www.eltiempo.com/colombia/medellin/itm-y-la-guia-de-animales-atropellados-en-vias-de-colombia-619478?fbclid=IwY2xjawP8ea9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEewdmkQi_rJyJXlKroZSkPhVIklqFjctY2lRlFLn3rriPpyHBdv5Bk-2CUoSU_aem_OMYrcpowHMBcv4AzkF_Z8w
+
+
+
+### Investigadores antioqueños elaboraron una guía para evitar atropellamientos de fauna silvestre
+
+Fecha: 14/09/2021
+
+![Imagen](21_n_123.png)
+
+Link:
+https://vivirenelpoblado.com/antioquenos-elaboraron-una-guia-para-evitar-atropellamientos-de-fauna-silvestre/?fbclid=IwY2xjawP8eMVleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEewC6Mfruun3qwC-mXkwmi1Dtg3a4dB8Jk3KNiXys7jDgUEoj5X5DG2N41qD4_aem_Pqsk4c3-joIs5LmXjIt_eA
+
+
+
+### GOBIERNO NACIONAL LANZA GUÍA PARA ENTENDER Y DIAGNOSTICAR EL IMPACTO DEL ATROPELLAMIENTO DE FAUNA SILVESTRE EN COLOMBIA
+
+Fecha: 09/09/2021
+
+![Imagen](21_n_6.png)
+
+Link:
+https://www.mintransporte.gov.co/publicaciones/10217/gobierno-nacional-lanza-guia-para-entender-y-diagnosticar-el-impacto-del-atropellamiento-de-fauna-silvestre-en-colombia/
+
+
+
+### CONVENIO CORNARE EN PRO DE LA PROTECCIÓN DE FAUNA SILVESTRE EN VIAS DEL ORIENTE ANTIOQUEÑO
+
+Fecha: 26/07/2021
+
+![Imagen](21_n_4.png)
+
+Link:
+https://twitter.com/i/status/1419786571159584768
+
 
 ---
 

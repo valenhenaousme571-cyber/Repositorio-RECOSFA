@@ -6,7 +6,7 @@
 
 ### Nuevo Convenio con Parques Nacionales
 
-Año: 2024
+Fecha: 2024
 
 ![Imagen](../imagenes/convenio_2024.jpg)
 
@@ -19,7 +19,7 @@ https://recosfa.org/convenio-2024
 
 ### Rescate de fauna silvestre en Antioquia
 
-Año: 2023
+Fecha: 2023
 
 ![Imagen](../imagenes/rescate.jpg)
 
@@ -32,7 +32,7 @@ https://recosfa.org/rescate-2023
 
 ### Rescate de fauna silvestre en Antioquia
 
-Año: 2023
+Fecha: 2023
 
 ![Imagen](../imagenes/rescate.jpg)
 
@@ -45,7 +45,7 @@ https://recosfa.org/rescate-2023
 
 ### Rescate de fauna silvestre en Antioquia
 
-Año: 2023
+Fecha: 2023
 
 ![Imagen](../imagenes/rescate.jpg)
 
@@ -58,7 +58,7 @@ https://recosfa.org/rescate-2023
 
 ### Rescate de fauna silvestre en Antioquia
 
-Año: 2023
+Fecha: 2023
 
 ![Imagen](../imagenes/rescate.jpg)
 
@@ -71,7 +71,7 @@ https://recosfa.org/rescate-2023
 
 ### Hoy queremos informar con gran alegría, que oficialmente se lanzó el Grupo de Trabajo en Transportes para Latinoamérica y el Caribe (LAC TWG) @lactwg ,  en el marco de la Unión Internacional para la Conservación de la Naturaleza (IUCN/UICN) y el Grupo de Especialistas en Conservación de Conectividad de la Comisión Mundial de Áreas Protegidas (CMAP/WCPA).
 
-Año: 2020
+Fecha: 16/12/2020
 
 ![Imagen](20_n_118.jpg)
 
@@ -82,7 +82,7 @@ https://www.facebook.com/share/p/1DNhNqciJu/
 
 ### Recosfa, la aplicación móvil para reportar atropellamiento de fauna en las vías de Colombia
 
-Año: 2020
+Fecha: 08/09/2020
 
 ![Imagen](20_n_112.png)
 
@@ -93,7 +93,7 @@ https://www.facebook.com/share/v/1ApHZ6qRhH/
 
 ### APP PARA REPORTAR ATROPELLAMIENTO DE ANIMALES
 
-Año: 2020
+Fecha: 17/06/2020
 
 ![Imagen](20_n_14.png)
 
@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=THG5JFzauQk
 
 ### Comienza el #ClubDeVidaEnLaVía: Una campaña para proteger los animales silvestres
 
-Año: 2020
+Fecha: 11/06/2020
 
 ![Imagen](20_n_17.png)
 
@@ -115,7 +115,7 @@ https://twitter.com/recosfa/status/1271207314352214017?s=20
 
 ### CONOZCA LA FORMA DE AYUDAR A LOS ANIMALES ATROPELLADOS EN LAS CARRETERAS DEL PAÍS
 
-Año: 2020
+Fecha: 09/05/2020
 
 ![Imagen](20_n_24.png)
 
@@ -126,7 +126,7 @@ https://www.bluradio.com/sociedad/conozca-la-forma-de-ayudar-los-animales-atrope
 
 ### ¡Pare! Paso de fauna silvestre por la vía
 
-Año: 2020
+Fecha: 06/05/2020
 
 ![Imagen](20_n_25.png)
 
@@ -137,7 +137,7 @@ https://www.semana.com/medio-ambiente/articulo/pare-paso-de-fauna-silvestre-por-
 
 ### Instalan paso de fauna silvestre para salvar a las zarigüeyas en vía del oriente antioqueño
 
-Año: 2020
+Fecha: 05/05/2020
 
 ![Imagen](20_n_27.png)
 
@@ -148,7 +148,7 @@ https://noticias.caracoltv.com/antioquia/instalan-paso-de-fauna-silvestre-para-s
 
 ### NUEVA ESTRATEGIA DE PASOS ELEVADOS BUSCA PROTEGER LA FAUNA SILVESTRE DE LA REGIÓN
 
-Año: 2020
+Fecha: 02/05/2020
 
 ![Imagen](20_n_28.png)
 
@@ -159,7 +159,7 @@ https://www.cornare.gov.co/noticias-corporativas/nueva-estrategia-de-pasos-eleva
 
 ### El ITM a través del PECIV y Recosfa asistimos a una reunión convocada por el Ministerio de Ambiente y Desarrollo Sostenible para crear un grupo de trabajo alrededor de la implementación de pasos de fauna en el país.
 
-Año: 2020
+Fecha: 28/02/2020
 
 ![Imagen](20_n_45.png)
 
@@ -170,7 +170,7 @@ https://www.facebook.com/recosfa/posts/2616179031812767/
 
 ### APP PARA PREVENIR EL ATROPELLO DE FAUNA EN CARRETEARA
 
-Año: 2020
+Fecha: 29/01/2020
 
 ![Imagen](20_n_52.png)
 
@@ -184,7 +184,7 @@ https://twitter.com/recosfa/status/1222704331377512450?s=20
 
 ### El @ITM_Medellin lanzó el Programa de Ecología de las Carreteras e Infraestructura Verde - @PECIVITM
 
-Año: 2019
+Fecha: 15/11/2019
 
 ![Imagen](19_n_82.png)
 
@@ -193,20 +193,9 @@ https://twitter.com/pecivitm
 
 
 
-### Recosfa, aplicación para proteger las especies vulnerables en carretera
-
-Año: 2019
-
-![Imagen](19_n_79.png)
-
-Link:
-https://www.youtube.com/watch?v=jgrAAxwGOKA
-
-
-
 ### Estuvimos en el programa #PlanetaCaracol de Caracol Radio hablando sobre ecología de carreteras y atropellamiento de fauna, y sobre el trabajo que junto al ITM Instituto Tecnológico Metropolitano estamos realizando para estudiar y comprender esta compleja problemática.¡Escúchalo completo aquí!
 
-Año: 2019
+Fecha: 20/08/2019
 
 ![Imagen](19_n_75.png)
 
@@ -215,9 +204,20 @@ https://www.facebook.com/share/v/1DTNZqcdxb/
 
 
 
+### Recosfa, aplicación para proteger las especies vulnerables en carretera
+
+Fecha: 05/06/2019
+
+![Imagen](19_n_79.png)
+
+Link:
+https://www.youtube.com/watch?v=jgrAAxwGOKA
+
+
+
 ### El @ITM_Medellin, #RECOSFA y el #PECIV se unen a la Escuela de Ecología Urbana de #Medellín y hacen parte del Consejo Rector de esta iniciativa @Areametropol @EAFIT @UdeA
 
-Año: 2019
+Fecha: 29/05/2019
 
 ![Imagen](19_n_63.png)
 

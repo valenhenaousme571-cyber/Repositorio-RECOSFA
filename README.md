@@ -8,8 +8,7 @@ Repositorio institucional de información, noticias, eventos, charlas, videos y 
 ## 📂 Navegación
 
 - 📰 [Noticias](noticias/README.md)
-- 📅 [Eventos](eventos/README.md)
-- 🎤 [Charlas o Conferencias](charlas/README.md)
+- 🎤 [Charlas o Conferencias](charlas y eventos/README.md)
 - 🎥 [Videos](videos/README.md)
 - 📁 [Material](material/README.md)
 

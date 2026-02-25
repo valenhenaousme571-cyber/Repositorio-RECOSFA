@@ -250,7 +250,7 @@ Fecha: 05/06/2024
 Descripción:
 Evento enfocado en estrategias de conservación de fauna en Colombia.
 
-![Imagen](../imagenes/evento_bogota.jpg)
+![Imagen](.)
 
 Link:
 tsrhs

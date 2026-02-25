@@ -193,5 +193,3 @@ Fecha: 06/06/2016
 
 Link:
 https://www.youtube.com/watch?v=So2z6v4pIxY
-
-https://youtube.com/video

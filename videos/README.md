@@ -10,7 +10,7 @@
 
 Fecha: 04/08/2025
 
-![Imagen](25_v_142.png)
+![Imagen](25_v_142.jpg)
 
 Link:
 https://www.youtube.com/watch?v=_XDaFSkXywg
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=_XDaFSkXywg
 
 Fecha: 23/09/2024
 
-![Imagen](24_v_135.png)
+![Imagen](24_v_135.jpg)
 
 Link:
 https://www.youtube.com/live/1J2vCrjlCqs
@@ -51,7 +51,7 @@ https://www.facebook.com/share/v/18B4vMiQnq/
 
 Fecha: 08/05/2023
 
-![Imagen](23_v_130.png)
+![Imagen](23_v_130.jpg)
 
 Link:
 https://www.youtube.com/watch?v=ZP0zsTmJXaM

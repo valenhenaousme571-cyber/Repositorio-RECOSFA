@@ -8,7 +8,7 @@
 
 Fecha: 18/02/2026
 
-![Imagen](26_e_146.png)
+![Imagen](26_e_146.jpg)
 
 Link:
 https://www.youtube.com/live/M8GJQ6qR9Kg

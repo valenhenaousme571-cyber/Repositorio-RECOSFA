@@ -171,17 +171,63 @@ https://www.youtube.com/watch?v=PBLnk62w3BA
 2022
 ---
 
-## Congreso Nacional de Conservación
+## Curso: Infraestructura vial de la mano con la biodiversidad
 
-Fecha: 05/06/2024
+Fecha: 13/11/2022
 
-Descripción:
-Evento enfocado en estrategias de conservación de fauna en Colombia.
-
-![Imagen](../imagenes/evento_bogota.jpg)
+![Imagen](22_e_147.jpg)
 
 Link:
-tsrhs
+https://x.com/recosfa/status/1591767217544519680?s=20
+
+
+
+## Jornadas Argentinas de Mastozoología
+
+Fecha: 08/11/2022
+
+Descripción: Participando en @jam2022iguazu, gracias a 
+@ITMinstitucion y @WoodcockFdn mostrándonos avances y perspectivas en el entendimiento del impacto de atropellamiento en mamíferos dentro de las vías de Colombia y aprendiendo de l@s colegas!
+
+![Imagen](22_e_148.jpg)
+
+Link:
+https://x.com/recosfa/status/1590005333509873664?s=20
+
+
+
+## Taller de principios básicos para la implementación de pasos de fauna
+
+Fecha: 06/10/2022
+
+![Imagen](22_e_149.jpg)
+
+
+
+## Diálogo Regional para construcción del Plan de Desarrollo Nacional para los Animales
+
+Fecha: 30/09/2022
+
+![Imagen](22_e_150.jpg)
+
+
+
+## IV Simposio Colombiano de Ecología de las Carreteras
+
+Fecha: 31/08/2022
+
+![Imagen](22_e_151.jpg)
+
+
+
+## Foro para el intercambio de conocimiento frente a la conservación de la biodiversidad en las carreteras nacionales
+
+Fecha: 22/06/2022
+
+![Imagen](22_c_152.jpg)
+
+Link:
+https://www.youtube.com/watch?v=kus_WalornI
 
 
 
